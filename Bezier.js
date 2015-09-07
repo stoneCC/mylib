@@ -2,10 +2,10 @@
  * Created by changchuan on 2015/9/7.
  */
 /**
- * Bezier ±´Èû¶ûÇúÏßº¯Êı
+ * Bezier è´å¡å°”æ›²çº¿å‡½æ•°
  *
  *
- * ÔÚÏßÖÆ×÷¹¤¾ß£ºhttp://labs.pufen.net/cubic-bezier/#.17,.67,.83,.67
+ * åœ¨çº¿åˆ¶ä½œå·¥å…·ï¼šhttp://labs.pufen.net/cubic-bezier/#.17,.67,.83,.67
 
  var b = new Bezier(0.0, 0.0, 1.0, 1.0);
  var x = b.solve(0.1,0.001);
